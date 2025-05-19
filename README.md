@@ -6,3 +6,7 @@ DoorMate is a fully open-source smart home and security setup that runs on a Ras
 Though USB CAM was used for demonstration purposes in this setup for extracting vide feed it can be extended and interfaced with traditional CCTV survelliance setups involving DVR's and NVR's. 
 
 All the details regarding the project can be found out from ACS Final.pdf file.
+
+![IMG-20250328-WA0054](https://github.com/user-attachments/assets/ec34180d-a5af-40b4-9f63-ba4ef9cb601e)
+
+![IMG-20250328-WA0058](https://github.com/user-attachments/assets/f8bc90f6-92ef-4cd8-9665-2379566f21cc)
